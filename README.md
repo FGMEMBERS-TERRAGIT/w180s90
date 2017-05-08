@@ -14,12 +14,12 @@ This repository objects could originate from several sources, among which the fo
 * 3D objects and locations added uniquely to FGMEMBERS-TERRAGIT. Authors depend on the object specifically
 * OSM buildings constructed with OSM2City Software
 
-:copyright: 2016, Israel Hernandez (IAHM-COL) <br>
-:copyright: 2016, Peter Brendt (Jabberwocky)  <br>
-:copyright: 2016, Sharath Mahadevan (SHM)<br>
-:copyright: 2016, J. Maverick<br>
-:copyright: 2016, Martin Herweg (D-LASER)<br>
-:copyright: 2016, Terrasync's FlightGear Scenery Database objects authors.
+:copyright: 2017-2016, Israel Hernandez (IAHM-COL) <br>
+:copyright: 2017-2016, Peter Brendt (Jabberwocky)  <br>
+:copyright: 2017-2016, Sharath Mahadevan (SHM)<br>
+:copyright: 2017-2016, J. Maverick<br>
+:copyright: 2017-2016, Martin Herweg (D-LASER)<br>
+:copyright: 2017-2016, Terrasync's FlightGear Scenery Database objects authors.
 
 ****
 
